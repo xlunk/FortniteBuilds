@@ -146,9 +146,7 @@ If any links do not work or you have any links for downloads, please contact me 
 
 ### Season 13
 
-| Build           
-
- | Date       | Engine Version   | Download Link                                      |
+| Build           | Date       | Engine Version   | Download Link                                      |
 |------------------|------------|------------------|----------------------------------------------------|
 | 13.00-CL-6189382 | 17-06-20   | UE4.25-6189382   | [Download](https://public.simplyblk.xyz/13.00.rar)  |
 | 13.20-CL-6244394 | 08-07-20   | UE4.25-6244394   | [Download](https://public.simplyblk.xyz/13.20.rar)  |
@@ -218,9 +216,7 @@ If any links do not work or you have any links for downloads, please contact me 
 
 | Build            | Date       | Engine Version   | Download Link                                      |
 |------------------|------------|------------------|----------------------------------------------------|
-| 
-
-19.00-CL-8441976 | 05-12-21   | UE5.00-8441976   | [Download](https://public.simplyblk.xyz/19.00.rar)  |
+| 19.00-CL-8441976 | 05-12-21   | UE5.00-8441976   | [Download](https://public.simplyblk.xyz/19.00.rar)  |
 | 19.01-CL-8482631 | 14-12-21   | UE5.00-8482631   | [Download](https://public.simplyblk.xyz/19.01.rar)  |
 | 19.10-CL-8504107 | 11-01-22   | UE5.00-8504107   | [Download](https://public.simplyblk.xyz/19.10.rar)  |
 | 19.20-CL-8561230 | 01-02-22   | UE5.00-8561230   | [Download](https://public.simplyblk.xyz/19.20.rar)  |
