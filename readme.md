@@ -74,9 +74,7 @@ If any links do not work or you have any links for downloads, please contact me 
 ### Season 6
 
 | Build            | Date       | Engine Version   | Download Link                                      |
-|------------------|------------|------------------|----------------------------------------------------
-
-|
+|------------------|------------|------------------|----------------------------------------------------|
 | 6.01-CL-4408644  | 03-10-18   | UE4.21-4408644   | [Download](https://public.simplyblk.xyz/6.01.rar)   |
 | 6.02-CL-4414192  | 09-10-18   | UE4.21-4414192   | [Download](https://public.simplyblk.xyz/6.02.rar)   |
 | 6.10-CL-4445150  | 24-10-18   | UE4.21-4445150   | [Download](https://public.simplyblk.xyz/6.10.rar)   |
