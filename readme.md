@@ -2,6 +2,8 @@
 This is a fortnite builds archive meant for downloading the old builds of the game. Thank you to blk for preserving these builds.
 If any links do not work or you have any links for downloads, please contact me via discord. (xlnk.)
 
+I am also currently working on a manifest downloader that you can use as a program, which could help improve download speed.
+
 ## Available Manifests
 
 ### Pre-Season and Season 0
